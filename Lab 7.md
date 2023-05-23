@@ -1,18 +1,18 @@
 # Question 1
 
-> List FOUR (4) inspection roles that you think significant to online groceries ordering system. <br> Give your reasons
+> Differenciate between VERIFICATION and VALIDATION. Give one example each from the case study.
 
-Based on the given case study and class note, the following four inspection roles seem to be significant for the development of an online groceries ordering system:
+In the context of software development, verification and validation are two different yet interrelated processes. They both have the objective of ensuring quality and reducing errors, but they do it in different ways.
 
-1. **Author or Owner**: This role is crucial because they are the ones responsible for creating and maintaining the software. They will have the most intimate understanding of the codebase, which is essential when troubleshooting and debugging. For the given online groceries ordering system, an Author or Owner will ensure that the system's functionalities align with the client's needs, such as managing orders, registration of riders and suppliers, payment acceptance, delivery tracking, and report generation.
+- Verification: This process checks whether the product is being developed in the right way. It's focused on the adherence to specifications, guidelines, and requirements set at the beginning of the development. The primary question in verification is "Are we building the product right?"
 
-2. **Inspector**: The inspector is responsible for finding any errors, inconsistencies, or omissions in the software. For an online groceries ordering system, this role is extremely important to ensure that the application runs smoothly without any errors. The inspector ensures that the order processing, rider and supplier registration, payment system, and other functionalities are working as expected. Also, because the end users are computer illiterate, the software needs to be user-friendly and intuitive. The inspector plays a key role in ensuring this.
+  Example from the case study: During the development of the web-based system for LYYC, a verification process would involve checking whether the system is capable of accepting payments from authorized credit/debit cards, as specified in the requirements. The team would check the code, perform code reviews, and run unit tests to ensure that the implementation meets the specified requirement.
 
-3. **Chairman or Moderator**: This role is important to manage the entire inspection process. Given that the client requires regular updates and detailed project progress reports, the Chairman or Moderator is responsible for facilitating communication between the team and the client. They will also ensure that all inspection activities are carried out according to schedule, ensuring the software is delivered within the agreed timeline of six months.
+- Validation: This process checks whether the developed product meets the user's requirements and solves the problem it's intended to solve. It's about making sure the right product is being developed. The primary question in validation is "Are we building the right product?"
 
-4. **Chief Moderator**: Given the technical nature of the system and the non-technical nature of the end users, continuous improvement of the system is essential. The Chief Moderator is responsible for inspection process improvements, updating checklists, and developing standards. This role ensures the software remains user-friendly, efficient, and is continuously improved upon based on feedback from users and inspection results. 
+  Example from the case study: In the LYYC's system, a validation process would be to have end-users such as riders, suppliers, and customers test the system to ensure it meets their expectations. As many of these end-users are computer illiterate, the usability of the system is important. If they find the system easy to use and it helps them manage their online groceries ordering efficiently, the system would be validated as the right product.
 
-It's important to remember that these roles can overlap and one person might take on multiple roles in a smaller team. However, for a project of this scale and importance, having dedicated people in each role could ensure a smoother inspection process and a higher quality end product.
+To sum it up, verification is about making sure the product is built according to specifications, while validation ensures the product meets the users' needs and requirements.
 
 ---
 
