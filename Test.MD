@@ -62,10 +62,25 @@ For two simple graphs $G1 = (V1, E1)$ and $G2 = (V2, E2)$ to be isomorphic, the 
 
 There are `n!` possible one-to-one correspondences between the vertex sets of two simple graphs with `n` vertices.
 
+# Graph Connectivity
+
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph TB
+  A -- B;
+  B -- C;
+  A -- C;
+  D -- E;
+  C -- D;
+  C -- F;
+  E -- F;
 ```
+1. **Connectivity:** A graph is connected if there's a path between every pair of vertices. In the above graph, each vertex is reachable from any other vertex.
+   - In formal terms, a graph $G$ is **connected** if, for every pair of vertices $v$, $w$ in $G$, there exists a path from $v$ to $w$.
+2. **Disconnected Graphs:** A graph is disconnected if there are two vertices that cannot be connected by a path.
+   - In formal terms, if there exists a pair of vertices $v$, $w$ in $G$ such that no path can be found from $v$ to $w$, then $G$ is **disconnected**.
+3. **Degree of a Vertex:** The degree of a vertex is the number of edges incident on it. For instance, in the given graph, vertex 'C' has a degree of 4.
+   - In formal terms, if a vertex $v$ in $G$ is incident with $k$ edges, then we say $v$ has a **degree** of $k$ (denoted $d(v) = k$).
+
+Applications of graph connectivity span across various fields, including network design, transportation, and routing. Understanding graph structure and robustness is critical in these areas.
+
+_Note: The graph provided above is undirected. In directed graphs, we differentiate between 'connectivity' and 'strong connectivity'._
