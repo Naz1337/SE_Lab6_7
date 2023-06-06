@@ -65,7 +65,7 @@ There are `n!` possible one-to-one correspondences between the vertex sets of tw
 # Graph Connectivity
 
 ```mermaid
-graph TB
+graph TD;
   A -- B;
   B -- C;
   A -- C;
