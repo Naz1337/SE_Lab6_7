@@ -66,13 +66,13 @@ There are `n!` possible one-to-one correspondences between the vertex sets of tw
 
 ```mermaid
 graph TD;
-  A -- B;
-  B -- C;
-  A -- C;
-  D -- E;
-  C -- D;
-  C -- F;
-  E -- F;
+  A --> B;
+  B --> C;
+  A --> C;
+  D --> E;
+  C --> D;
+  C --> F;
+  E --> F;
 ```
 1. **Connectivity:** A graph is connected if there's a path between every pair of vertices. In the above graph, each vertex is reachable from any other vertex.
    - In formal terms, a graph $G$ is **connected** if, for every pair of vertices $v$, $w$ in $G$, there exists a path from $v$ to $w$.
