@@ -61,3 +61,11 @@ For two simple graphs $G1 = (V1, E1)$ and $G2 = (V2, E2)$ to be isomorphic, the 
 5. The adjacency matrix of $G1$ should be the same as the adjacency matrix of $G2$, with rows and columns labeled by the images of corresponding vertices in $G1$.
 
 There are `n!` possible one-to-one correspondences between the vertex sets of two simple graphs with `n` vertices.
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
