@@ -1,6 +1,6 @@
 # Step to register IP
 
-## Note 1
+## [Note 1](https://chat.openai.com/share/5e4febdf-b934-4a40-a1f4-3e6c2b68dde3)
 
 According to the class notes, the Intellectual Property (IP) registration forms can be found on the MyIPO (Malaysian Intellectual Property Office) website. Specific forms include:
 
@@ -12,7 +12,7 @@ Please note that these links were provided in the class notes and their availabi
 
 ---
 
-## Note 2
+## [Note 2](https://chat.openai.com/share/3d385420-fce3-4e5b-bb62-2d67be585773)
 
 Your company's smart water bottle likely comprises several elements that can be protected through various types of intellectual property rights. Let's break it down:
 
@@ -40,7 +40,7 @@ Remember, the exact process and requirements may vary depending on the country w
 
 ---
 
-## Note 3
+## [Note 3](https://chat.openai.com/share/4e441ba9-8d69-4b74-a18c-2937285dd7b1)
 
 Based on the class notes you provided, here's the process to register your intellectual property for a newly invented and unique smart bottle:
 
@@ -66,7 +66,7 @@ Please consult a legal professional or intellectual property expert to ensure th
 
 # Organizational Plan
 
-## Note 1
+## [Note 1](https://chat.openai.com/share/49d6eb5c-bb3e-4b0c-953e-bc015d60bf84)
 
 Based on the provided class notes, here are the steps to make an organizational plan for your business:
 
@@ -90,7 +90,7 @@ Remember, while making an organizational plan, it's also important to consider f
 
 # Marketing Plan
 
-## Note 1
+## [Note 1](https://chat.openai.com/share/72c02f34-ac44-4e1c-906c-c22f35120b94)
 
 Based on your class notes, here's a step-by-step guide to creating a marketing plan for your business:
 
@@ -124,7 +124,7 @@ After you've completed these steps, you should have a comprehensive marketing pl
 
 # Operational Plan
 
-## Note 1
+## [Note 1](https://chat.openai.com/share/28048258-b6ac-4e27-babc-59baad93b9b3)
 
 Based on the provided notes, an operational plan for your business can be developed through the following steps:
 
@@ -160,7 +160,7 @@ Remember that each operational plan is unique and will require strategies tailor
 
 # Financial Plan
 
-## Note 1
+## [Note 1](https://chat.openai.com/share/4504be00-0469-4f60-8b31-08a3422c2280)
 
 To make a financial plan for a business, you need to follow several steps, as outlined in the class notes provided. 
 
