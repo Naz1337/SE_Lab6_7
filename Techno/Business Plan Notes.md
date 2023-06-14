@@ -88,6 +88,22 @@ Remember, while making an organizational plan, it's also important to consider f
 
 ---
 
+## [Note 2](https://chat.openai.com/share/6fbb92d6-56ac-4aff-9495-212b4fab2f4e)
+
+The SMART concept is a set of criteria that guide the setting of objectives. This concept is often used for project management, employee performance management, and personal development. It stands for:
+
+S - Specific: The objective should be clear, precise and easy to understand. This simplifies the planning process as it's easier to achieve a specific goal than a general one.
+
+M - Measurable: You should be able to measure whether you are meeting the objectives or not. This usually involves a quantifiable metric.
+
+A - Achievable: The objective should be attainable and not impossible to achieve. It should challenge you but still remain possible with effort and commitment.
+
+R - Realistic: It should be within reach, realistic and relevant to your business needs. This also involves ensuring that the objective is results-based, meaning that it should be aligned with the desired outcome.
+
+T - Time frame: Every objective needs a time frame or deadline which states when the objective should be achieved. A timeline provides a sense of urgency and helps to prevent everyday tasks from taking priority over longer-term goals.
+
+---
+
 # Marketing Plan
 
 ## [Note 1](https://chat.openai.com/share/72c02f34-ac44-4e1c-906c-c22f35120b94)
