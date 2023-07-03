@@ -84,3 +84,78 @@ graph TD;
 Applications of graph connectivity span across various fields, including network design, transportation, and routing. Understanding graph structure and robustness is critical in these areas.
 
 _Note: The graph provided above is undirected. In directed graphs, we differentiate between 'connectivity' and 'strong connectivity'._
+
+---
+
+Let's think step by step.
+
+To solve this, we need to create a rooted tree based on the clues given. Mermaid diagram syntax uses code blocks to describe diagrams, including nodes (the vertices), their relationships (edges), and their levels (the hierarchical depth of each node). In the mermaid diagram syntax, nodes are represented by their IDs, and parent-child relationships are depicted by arrows (-->).
+
+From the clues given:
+
+1. Vertex z is at level 0 (root), and its children are y, f, and g.
+2. Vertices h, i, and j are siblings at level 2. But we don't yet know who their parent is.
+3. Vertices d and e are at level 3. We also don't know their parent.
+4. The ancestors of e are x, y, and z. So, z --> y --> x --> e should be part of our tree.
+5. The descendants of y are x, d, and e. We already knew y --> x --> e from the previous clue, and now we know that y --> x --> d as well.
+6. The leaves are d, e, f, i, k, l, and m. We knew about d, e, and f already, and now we know there are others.
+7. l and m are siblings. We don't know their parent yet.
+8. The internal vertices are z, y, x, g, h, and j. We have placed all of them except h and j.
+
+Using these clues, we can start building the tree. First, we add the root and its immediate descendants:
+
+```
+graph TB
+    z-->y
+    z-->f
+    z-->g
+```
+
+Next, we add y's descendants:
+
+```
+graph TB
+    z-->y
+    z-->f
+    z-->g
+    y-->x
+    x-->d
+    x-->e
+```
+
+Since the leaves are d, e, f, i, k, l, and m, and f is already a child of z, we need to add i, k, l, and m to the tree. As h, i, j are siblings at level 2, they must be children of g. We also know l and m are siblings but we don't know their parent. Since we have no other internal vertices left, l and m must be children of i:
+
+```
+graph TB
+    z-->y
+    z-->f
+    z-->g
+    y-->x
+    x-->d
+    x-->e
+    g-->h
+    g-->i
+    g-->j
+    i-->l
+    i-->m
+```
+
+And finally, we don't have any information about k, but since it's a leaf and all internal vertices have been used, k must be another child of i:
+
+```
+graph TB
+    z-->y
+    z-->f
+    z-->g
+    y-->x
+    x-->d
+    x-->e
+    g-->h
+    g-->i
+    g-->j
+    i-->l
+    i-->m
+    i-->k
+```
+
+This tree satisfies all the given criteria.
