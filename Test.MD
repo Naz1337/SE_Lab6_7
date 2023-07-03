@@ -104,7 +104,7 @@ From the clues given:
 
 Using these clues, we can start building the tree. First, we add the root and its immediate descendants:
 
-```
+```mermaid
 graph TB
     z-->y
     z-->f
@@ -113,7 +113,7 @@ graph TB
 
 Next, we add y's descendants:
 
-```
+```mermaid
 graph TB
     z-->y
     z-->f
@@ -125,7 +125,7 @@ graph TB
 
 Since the leaves are d, e, f, i, k, l, and m, and f is already a child of z, we need to add i, k, l, and m to the tree. As h, i, j are siblings at level 2, they must be children of g. We also know l and m are siblings but we don't know their parent. Since we have no other internal vertices left, l and m must be children of i:
 
-```
+```mermaid
 graph TB
     z-->y
     z-->f
@@ -142,7 +142,7 @@ graph TB
 
 And finally, we don't have any information about k, but since it's a leaf and all internal vertices have been used, k must be another child of i:
 
-```
+```mermaid
 graph TB
     z-->y
     z-->f
