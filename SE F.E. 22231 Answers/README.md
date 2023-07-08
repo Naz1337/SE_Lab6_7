@@ -1,4 +1,6 @@
-# Case Study
+# Software Engineering 2022/2023 Semester 1 Final Exam AI Answer (with references to notes)
+
+## Case Study
 
 You are assigned as a member of a software development team at Advanced Software Solution Sdn Bhd. The assigned project is to develop an e-ticketing system for Kuantan Terminal Sentral (KTS), a public transport terminal. KTS is a centralized ticketing counter for all bus service providers. The KTST system (Kuantan Terminal Sentral Ticketing) is expected to replace the existing individual e-ticketing systems hosted by respective bus service providers. The KTST system will serve as a centralized e-ticketing system that can be used by customers, bus service providers, and the Kuantan Terminal Sentral management team.
 
