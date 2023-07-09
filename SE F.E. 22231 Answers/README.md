@@ -12,7 +12,7 @@ Customers are expected to register before searching in the KTST system. Once the
 
 ## Question 1
 
-> a) Your chief developer ofKTST system development is considering an open-source tool to be used during actual system development. Discuss THREE (3) advantages and THREE (3) disadvantages of using open-source tool for KTST system.
+`a) Your chief developer ofKTST system development is considering an open-source tool to be used during actual system development. Discuss THREE (3) advantages and THREE (3) disadvantages of using open-source tool for KTST system.`
 
 Based on the given case study and the notes provided, we can consider the following advantages and disadvantages of using an open-source tool for the KTST system:
 
@@ -36,7 +36,7 @@ In conclusion, the decision to use open-source tools should be carefully evaluat
 
 ---
 
-> b) Choose THREE (3) most appropriate API business model categories for KTST system. Justify your answer based on the case study.
+`b) Choose THREE (3) most appropriate API business model categories for KTST system. Justify your answer based on the case study.`
 
 Based on the information provided in the case study and the notes, the three most appropriate API business model categories for the KTST system would be Developer Pays, Indirect, and Developer Gets Paid.
 
@@ -50,7 +50,7 @@ The chosen models not only provide a possible revenue stream but also ensure tha
 
 ---
 
-> c) Describe TWO (2) potential tools that might be used by developer team to develop the KTST system.
+`c) Describe TWO (2) potential tools that might be used by developer team to develop the KTST system.`
 
 Based on the notes provided and the requirements of the KTST system outlined in the case study, two potential tools that might be used by the developer team to develop the system are an Integrated Development Environment (IDE) and Version Control System.
 
@@ -64,7 +64,7 @@ In the broader software development process, additional tools for testing, profi
 
 ## Question 2
 
-> a) Distinguish the differences between these two activities: software inspections and software testing? Justify TWO (2) reasons why both of these activities are important to the verification process in the KTST system development life cycle.
+`a) Distinguish the differences between these two activities: software inspections and software testing? Justify TWO (2) reasons why both of these activities are important to the verification process in the KTST system development life cycle.`
 
 Software inspections and software testing are two essential activities within the software development life cycle that serve different but complementary purposes.
 
@@ -82,7 +82,7 @@ Overall, both software inspections and software testing are fundamental in the s
 
 ---
 
-> b) Describe TWO (2) roles that are responsible during the inspection activities of KTST system
+`b) Describe TWO (2) roles that are responsible during the inspection activities of KTST system`
 
 In the context of the KTST system and based on the information provided in the notes, two roles that are crucial during the inspection activities are the "Inspector" and the "Chairman or Moderator".
 
@@ -94,7 +94,7 @@ Both of these roles play a significant part in ensuring the reliability and effe
 
 ---
 
-> c) To ensure KTSK system will perform well and meet the users requirement, describe THREE (3) types of software testing that will be used to test the KTST system. Provide ONE (1) justification for each type, explaining why those types of software testing are important to the KTST system development.
+`c) To ensure KTSK system will perform well and meet the users requirement, describe THREE (3) types of software testing that will be used to test the KTST system. Provide ONE (1) justification for each type, explaining why those types of software testing are important to the KTST system development.`
 
 Based on the requirements of the Kuantan Terminal Sentral Ticketing (KTST) system from the case study and the concepts of software testing from the given notes, three types of software testing can be employed. 
 
@@ -114,7 +114,7 @@ It is important to note that software reliability can be used to evaluate the pr
 
 ## Question 3
 
-> a) Since Kuantan Terminal Sentral management team spend huge investments for KTST systems development, they treat it as their future critical business assets. To maintain the value of KTST which become the asset to the business, it must be evolved. Discuss THREE (3) types of system maintenance strategy to ensure KTST system able to operate in a longer period.
+`a) Since Kuantan Terminal Sentral management team spend huge investments for KTST systems development, they treat it as their future critical business assets. To maintain the value of KTST which become the asset to the business, it must be evolved. Discuss THREE (3) types of system maintenance strategy to ensure KTST system able to operate in a longer period.`
 
 To ensure the Kuantan Terminal Sentral Ticketing (KTST) system can operate over a longer period, it's critical to apply appropriate system maintenance strategies. Based on the provided case study and the notes, I recommend the following strategies:
 
@@ -130,7 +130,7 @@ Finally, it's crucial to periodically assess the system quality and business val
 
 ---
 
-> b) In the case study, the existing individual e-tiketing systems hosting by respective buses service providers are categorised as legacy system. Kuantan Terminal Sentral mangement team considered this system has low quality and low business value to them because they are operated separately and lead to inefficient operation to them as well as to the customer. What is the best legacy system management strategy in dealing with those system? Give your justification for your answer.
+`b) In the case study, the existing individual e-tiketing systems hosting by respective buses service providers are categorised as legacy system. Kuantan Terminal Sentral mangement team considered this system has low quality and low business value to them because they are operated separately and lead to inefficient operation to them as well as to the customer. What is the best legacy system management strategy in dealing with those system? Give your justification for your answer.`
 
 Based on the provided notes and the case study, the best legacy system management strategy for Kuantan Terminal Sentral (KTS) in dealing with the existing e-ticketing systems would be to "replace the system with a new system" (Page 44; Chapter 8). 
 
@@ -148,7 +148,7 @@ Therefore, replacing the legacy systems with a new, centralized e-ticketing syst
 
 ---
 
-> c) Discuss TWO (2) possible situations that lead to urgent changes need to be implemented for KTST system during system evolution stage.
+`c) Discuss TWO (2) possible situations that lead to urgent changes need to be implemented for KTST system during system evolution stage.`
 
 Given the case study of the KTST system, there are several possible situations that could lead to the need for urgent changes during the system's evolution stage.
 
@@ -164,7 +164,7 @@ It's crucial to understand that software evolution is an inevitable part of a so
 
 ---
 
-> d) Discuss THREE (3) maintenance cost factors that should be considered by Kuantan Terminal Sentral Management team that may increase the maintenance cost of the KTST system.
+`d) Discuss THREE (3) maintenance cost factors that should be considered by Kuantan Terminal Sentral Management team that may increase the maintenance cost of the KTST system.`
 
 The maintenance cost of the Kuantan Terminal Sentral Ticketing (KTST) system is influenced by several factors as outlined in the notes from Chapter 8: Software Evolution. Here are three key factors that the Kuantan Terminal Sentral Management team should consider:
 
@@ -180,7 +180,7 @@ References: Chapter 8: Software Evolution (Pages 23, 27) [1, 4].
 
 ## Question 4
 
-> a) Differentiate between FAILURE and FAUL, by providing appropriate example from the case study.
+`a) Differentiate between FAILURE and FAUL, by providing appropriate example from the case study.`
 
 In software reliability, "failure" and "fault" are two fundamental concepts. Failure is said to occur when the observable outcome of a program execution is different from the expected outcome. For instance, if the newly developed KTST system is expected to send e-tickets to the customers' mobile devices after an online payment (Paragraph 4), but instead, the system fails to send the e-tickets, this would be considered a failure. It's a deviation from the expected outcome of the software's execution.
 
@@ -190,14 +190,14 @@ Therefore, failure and fault, while related, have distinct differences. Failure 
 
 ---
 
-> b) The following are reliability requirement statements of a software system:
+`b) The following are reliability requirement statements of a software system:`
 
-> "The client of the KTST system has stated that the reliability requirement is that no more than two (2) faults may occur during every eight (8) hours of continuous operation. Testing begins when the software reaches the beta phase. Four (4) employees perform continuous testing during business hours."
+`"The client of the KTST system has stated that the reliability requirement is that no more than two (2) faults may occur during every eight (8) hours of continuous operation. Testing begins when the software reaches the beta phase. Four (4) employees perform continuous testing during business hours."`
 
-> Based on the reliability requirement statements above, please provide the formulas used for each calculation: <br>
-i. Calculate the failure rate goal based on per-hour operation.<br>
-ii. Determine the cumulative software testing time performed by the employees within a day.<br>
-iii. Compute the daily failure intensity goal performed by the employees.
+`Based on the reliability requirement statements above, please provide the formulas used for each calculation:` <br>
+`i. Calculate the failure rate goal based on per-hour operation.`<br>
+`ii. Determine the cumulative software testing time performed by the employees within a day.`<br>
+`iii. Compute the daily failure intensity goal performed by the employees.`
 
 Sure, I'll walk through each calculation in the order they are presented.
 
@@ -239,7 +239,7 @@ In addition, considering the limited budget for the development stage in compari
 
 ---
 
-> c) Explain THREE (3) advantages of reliability specification in the context of KTST system.
+`c) Explain THREE (3) advantages of reliability specification in the context of KTST system`
 
 Reliability specification plays a crucial role in developing the KTST system, providing several key benefits.
 
@@ -253,9 +253,9 @@ In summary, a reliability specification is not just a technical requirement but 
 
 ---
 
-> d) Software failures can cause inconvenience to the users of the software. In your opinion, is it ethical or not for companies to release software that they know including faults that could lead to software failures?<br>
-Explain FOUR (4) consequences resulted if KTST has faults but been released to the
-customer.
+`d) Software failures can cause inconvenience to the users of the software. In your opinion, is it ethical or not for companies to release software that they know including faults that could lead to software failures?`
+
+`Explain FOUR (4) consequences resulted if KTST has faults but been released to the customer.`
 
 
 ### Answer 1
